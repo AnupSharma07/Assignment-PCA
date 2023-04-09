@@ -32,4 +32,4 @@ Flight_trans_12--Number of flight transactions in the past 12 months
 
 Days_since_enrolled--Number of days since enrolled in flier program
 
-Award--whether that person had award flight (free flight) or not
+Award--whether that person had award flight (free flight) or not.
